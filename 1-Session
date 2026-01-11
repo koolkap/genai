@@ -1,0 +1,21 @@
+# Roadmap To Generative AI In 2026
+
+## Prerequisites
+
+## 1. Python Programming Language 
+#### Python:
+![python-logo-master-v3-TM-flattened](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+## 2. Vector Databases And Vector Stores
+
+1. ChromaDB
+2. FAISS vector database, which makes use of the Facebook AI Similarity Search (FAISS) library
+3. LanceDB vector database based on the Lance data format <optional>
+4. Cassandra DB For storing Vectors
+
+## 3. Deployment Of LLM Projects
+
+1. Azure
+2. LangSmith
+3. LangServe
+4. HuggingFace Spaces
