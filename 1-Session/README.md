@@ -7,6 +7,15 @@
 ![python-logo-master-v3-TM-flattened](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 
+## 3. Hyperlinks of different LLM provider (Properitory + OpenSource)
+
+1. ChatGPT (https://platform.openai.com/docs/overview)
+2. Gemini (https://aistudio.google.com/u/0/api-keys) --> Require Login
+3. Llama (https://www.llama.com/llama-downloads/)
+4. Claude (https://platform.claude.com/)
+5. Deepseek (https://platform.deepseek.com/) 
+6. 
+
 ## 2. Vector Databases And Vector Stores
 
 1. ChromaDB
