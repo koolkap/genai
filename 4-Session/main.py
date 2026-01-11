@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import pymupdf
 import requests
 import json
 from prompt import system_message, generate_prompt
@@ -12,7 +12,7 @@ TOPIC = "Money"   # you can change this "Embrace Your Unique Skills"
 
 def extract_text_from_pdf(path: str) -> str:
     """Extracts plain text from a PDF file using PyMuPDF."""
-    doc = fitz.open(path)
+    doc = pymupdf.open(path)
     text = ""
     for page in doc:
         text += page.get_text()
