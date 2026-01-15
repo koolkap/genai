@@ -1,2 +1,7 @@
-sentence-transformer
+fastapi
+uvicorn
 faiss-cpu
+pandas
+sentence-transformers
+requests
+
