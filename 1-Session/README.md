@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-## 1. Python Programming Language -1 Month
+## 1. Python Programming Language 
 #### Python:
 ![python-logo-master-v3-TM-flattened](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 

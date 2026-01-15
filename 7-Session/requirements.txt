@@ -2,3 +2,7 @@ langchain
 langchain-ollama
 langchain-chroma
 pandas
+faiss-cpu
+fastapi
+uvicorn
+fastapi
