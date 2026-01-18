@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+faiss-cpu
+pandas
+numpy
+sentence-transformers
+requests
+
+# LangChain prompt utilities + document types
+langchain-core
+langchain-community
+
+# LangGraph orchestration
+langgraph
+
+# For Pydantic / FastAPI request schemas
+pydantic==2.*
