@@ -24,7 +24,7 @@ def node_build_prompt(state: RAGState):
     return state
 
 def node_generate(state: RAGState):
-    state["answer"] = ollama_infer(state["prompt"])
+    state["answer"] = ollama_generate(state["prompt"])
     return state
 
 workflow = StateGraph(RAGState)
