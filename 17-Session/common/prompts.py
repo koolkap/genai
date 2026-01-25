@@ -1,4 +1,5 @@
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
+
 
 SCHEMA_PROMPT = PromptTemplate(
     input_variables=["schema"],
