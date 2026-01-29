@@ -1,0 +1,7 @@
+
+Company Policy Document
+
+1. Employees must work 8 hours per day.
+2. Remote work is allowed twice a week.
+3. All data must be handled securely.
+4. AI tools should respect user privacy.
