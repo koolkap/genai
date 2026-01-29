@@ -16,3 +16,8 @@ This script executes the complete multimodal AI pipeline:
 ## How to Run
 ```bash
 python main_project.py
+
+
+# pip install -U langchain langchain-community langchain-text-splitters
+
+# pip install -U faiss-cpu

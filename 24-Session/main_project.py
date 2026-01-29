@@ -13,8 +13,8 @@ from datetime import datetime
 # -----------------------------
 # Paths from Session 22
 # -----------------------------
-TEXT_PATH = "../data/text/company_policy.txt"
-IMAGE_PATH = "../data/images/office_scene.png"
+TEXT_PATH = "./data/text/company_policy.txt"
+IMAGE_PATH = "./data/images/office_scene.png"
 
 # -----------------------------
 # Build Vector Database
